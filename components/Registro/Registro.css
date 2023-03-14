@@ -1,0 +1,129 @@
+.registro {
+  align-items: flex-start;
+  background-color: var(--shark);
+  border: 1px none;
+  display: flex;
+  gap: 55px;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-col-29 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  margin-top: 236px;
+  min-height: 562px;
+  width: 589px;
+}
+
+.icon-7 {
+  height: 67px;
+  margin-right: 26.0px;
+  width: 67px;
+}
+
+.overlap-group-38 {
+  height: 447px;
+  position: relative;
+  width: 589px;
+}
+
+.login-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 447px;
+  position: absolute;
+  top: 0;
+  width: 589px;
+}
+
+.title-3 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-right: 26.0px;
+  min-width: 211px;
+  white-space: nowrap;
+}
+
+.contrasea {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 27px;
+  white-space: nowrap;
+}
+
+.input-4 {
+  border: 1.5px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  height: 56px;
+  margin-top: 8px;
+  width: 583px;
+}
+
+.confirmar-contrasea-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 21px;
+  white-space: nowrap;
+}
+
+.buttons-13 {
+  align-items: flex-start;
+  align-self: center;
+  background: linear-gradient(180deg, rgb(200, 71, 244) 0%, rgb(110, 84, 247) 100%);
+  border-radius: 8px;
+  box-shadow: 0px 4px 16px #9471cf3d;
+  cursor: pointer;
+  display: flex;
+  height: 53px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  margin-top: 21px;
+  min-width: 578px;
+  padding: 16px 253px;
+}
+
+.siguiente-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  min-width: 71px;
+  text-align: center;
+}
+
+.johndoegmailcom-3 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 230px;
+  white-space: nowrap;
+  width: 314px;
+}
+
+.johndoegmailcom-4 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 335px;
+  white-space: nowrap;
+  width: 314px;
+}
+
+.text-24 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 119px;
+  white-space: nowrap;
+}
+

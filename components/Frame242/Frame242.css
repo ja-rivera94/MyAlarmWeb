@@ -1,0 +1,59 @@
+.frame-242 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-237 {
+  background-image: url(/static/img/ellipse-4-1.svg);
+  background-size: 100% 100%;
+  height: 100px;
+  min-width: 100px;
+  position: relative;
+}
+
+.overlap-group-6 {
+  background-image: url(/static/img/ellipse-6-6.svg);
+  background-size: 100% 100%;
+  height: 99px;
+  position: relative;
+  width: 100px;
+}
+
+.ellipse-5-4 {
+  background: linear-gradient(180deg, rgba(200, 71, 244, 0.1) 0%, rgba(110, 84, 247, 0.1) 100%);
+  border-radius: 34px;
+  height: 68px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 68px;
+}
+
+.icon-mail {
+  height: 24px;
+  left: 38px;
+  position: absolute;
+  top: 38px;
+  width: 24px;
+}
+
+.correo {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-242.frame-242-1 .overlap-group-6 {
+  background-image: url(/static/img/ellipse-6-4.svg);
+}
+
+.frame-242.frame-242-2 .overlap-group-6 {
+  background-image: url(/static/img/ellipse-6.svg);
+}
+

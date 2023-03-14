@@ -1,0 +1,25 @@
+.group-6-2 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  height: 14px;
+  left: 21px;
+  min-width: 89px;
+  position: absolute;
+  top: 8px;
+}
+
+.oval-copy-2-3 {
+  height: 10px;
+  margin-top: 0.47px;
+  width: 10px;
+}
+
+.x1000-4 {
+  letter-spacing: 0.75px;
+  line-height: 14px;
+  min-width: 71px;
+  text-align: center;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,146 @@
+.codigo-de-verificacion-2 {
+  align-items: flex-start;
+  background-color: var(--shark);
+  border: 1px none;
+  display: flex;
+  gap: 48px;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-col-28 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 236px;
+  min-height: 465px;
+  width: 580px;
+}
+
+.icon-6 {
+  height: 67px;
+  margin-right: 1.0px;
+  width: 67px;
+}
+
+.overlap-group-37 {
+  height: 333px;
+  margin-top: 16px;
+  position: relative;
+  width: 580px;
+}
+
+.login-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 260px;
+  left: 0;
+  min-height: 333px;
+  position: absolute;
+  top: 0;
+  width: 580px;
+}
+
+.cdigo-de-verificacin {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-right: 21.0px;
+  min-width: 413px;
+  white-space: nowrap;
+}
+
+.buttons-12 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(200, 71, 244) 0%, rgb(110, 84, 247) 100%);
+  border-radius: 8px;
+  box-shadow: 0px 4px 16px #9471cf3d;
+  cursor: pointer;
+  display: flex;
+  height: 53px;
+  justify-content: flex-end;
+  margin-right: 2.0px;
+  min-width: 578px;
+  padding: 16px 253px;
+}
+
+.siguiente-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  min-width: 71px;
+  text-align: center;
+}
+
+.text-23 {
+  left: 266px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 234px;
+}
+
+.number-75 {
+  left: 129px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 124px;
+}
+
+.number-76 {
+  left: 232px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 124px;
+}
+
+.number-77 {
+  left: 329px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 124px;
+}
+
+.number-78 {
+  left: 426px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 124px;
+}
+
+.hemos-enviado-un-cod {
+  left: 81px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 37px;
+  white-space: nowrap;
+}
+
+.no-has-recibido-el-cdigo-reenviar {
+  letter-spacing: 0;
+  line-height: 21.7px;
+  margin-right: 1.0px;
+  margin-top: 28px;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.input-codigo {
+  background: black;
+  weight: 9px;
+  font-synthesis-weight: auto;
+  font-size: 38px;
+  color: white;
+  width: 39px;
+}

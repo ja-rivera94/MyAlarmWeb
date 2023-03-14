@@ -1,0 +1,38 @@
+.frame-32-4-1 {
+  align-items: center;
+  background-color: var(--tuatara);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 6px 12px;
+  position: relative;
+  width: 42px;
+}
+
+.lun {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4.00px;
+  margin-right: -4.00px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-32-4-1.frame-32-4-2 .lun,
+.frame-32-4-1.frame-32-5-2 .lun,
+.frame-32-4-1.frame-32-6-2 .lun,
+.frame-32-4-1.frame-32-7-2 .lun {
+  margin-left: -4.50px;
+  margin-right: -4.50px;
+}
+
+.frame-32-4-1.frame-32-4 .lun,
+.frame-32-4-1.frame-32-5 .lun,
+.frame-32-4-1.frame-32-6 .lun,
+.frame-32-4-1.frame-32-7 .lun {
+  margin-left: -5.00px;
+  margin-right: -5.00px;
+}
+

@@ -1,0 +1,36 @@
+.input-email-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 40px;
+  position: relative;
+  width: 583px;
+}
+
+.email-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 314px;
+}
+
+.input-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1.5px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 16px;
+  position: relative;
+}
+
+.input-email-2.input-email-3 {
+  margin-top: 53px;
+}
+

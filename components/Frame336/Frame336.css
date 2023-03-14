@@ -1,0 +1,136 @@
+.frame-336 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgba(240.54, 71, 244, 0.5) 0%, rgba(247, 84, 103.56, 0.5) 100%);
+  border-radius: 16px;
+  display: flex;
+  min-width: 343px;
+}
+
+.overlap-group2-3 {
+  border-radius: 16px;
+  height: 143px;
+  position: relative;
+  width: 343px;
+}
+
+.group-6 {
+  -webkit-backdrop-filter: blur(60.7px) brightness(100%);
+  align-items: flex-end;
+  backdrop-filter: blur(60.7px) brightness(100%);
+  background-color: var(--black-2);
+  border-radius: 16px;
+  display: flex;
+  height: 143px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 343px;
+}
+
+.overlap-group-14 {
+  height: 284px;
+  margin-bottom: -140.54px;
+  position: relative;
+  width: 368px;
+}
+
+.ellipse-5-9 {
+  background-color: var(--heliotrope);
+  border-radius: 143.19px/79.03px;
+  filter: blur(72.5px);;
+  height: 158px;
+  left: 74px;
+  position: absolute;
+  top: 110px;
+  transform: rotate(-6.48deg);
+  width: 286px;
+}
+
+.ellipse-4-3 {
+  height: 143px;
+  left: 153px;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.vector-4-3 {
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 223px;
+}
+
+.vector-5-3 {
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 81px;
+  width: 183px;
+}
+
+.am-12 {
+  height: 20px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
+
+.rutina-diaria {
+  height: 13px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+}
+
+.lun-mar-mie-sab {
+  height: 15px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 111px;
+}
+
+.text-6 {
+  height: 51px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+}
+
+.x12h-28m-1 {
+  height: 15px;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 111px;
+}
+
+.frame-336.frame-336-1 {
+  height: 143px;
+  left: 126px;
+  position: absolute;
+  top: 404px;
+}
+
+.frame-336.frame-336-2 {
+  margin-top: 16px;
+}
+
+.frame-336.frame-336-3 {
+  height: 143px;
+  left: 120px;
+  position: absolute;
+  top: 347px;
+}
+

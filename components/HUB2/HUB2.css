@@ -1,0 +1,511 @@
+.hub {
+  align-items: flex-start;
+  background-color: var(--shark);
+  border: 1px none;
+  display: flex;
+  gap: 2px;
+  width: 1440px;
+}
+
+.overlap-group9-1 {
+  background-color: var(--shark);
+  height: 1024px;
+  position: relative;
+  width: 250px;
+}
+
+.rectangle-3782-3 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: var(--black-3);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.logo-4 {
+  height: 55px;
+  left: 26px;
+  position: absolute;
+  top: 124px;
+  width: 197px;
+}
+
+.group-68686-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 95px;
+  min-height: 464px;
+  position: absolute;
+  top: 341px;
+  width: 60px;
+}
+
+.icon-clock-3 {
+  height: 60px;
+  width: 60px;
+}
+
+.icon-1 {
+  cursor: pointer;
+  height: 60px;
+  margin-top: 73px;
+  width: 60px;
+}
+
+.icon-star-3 {
+  height: 60px;
+  margin-top: 78px;
+  width: 60px;
+}
+
+.overlap-group8-2 {
+  height: 1024px;
+  position: relative;
+  width: 1188px;
+}
+
+.overlap-group1-9 {
+  border-radius: 16px;
+  height: 143px;
+  left: 126px;
+  position: absolute;
+  top: 245px;
+  width: 345px;
+}
+
+.rectangle-217-3 {
+  background: linear-gradient(180deg, rgb(200, 71, 244) 0%, rgb(110, 84, 247) 100%);
+  border-radius: 16px;
+  height: 139px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 343px;
+}
+
+.group-10 {
+  align-items: flex-end;
+  border-radius: 16px;
+  display: flex;
+  height: 143px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 345px;
+}
+
+.overlap-group-18 {
+  height: 284px;
+  margin-bottom: -140.54px;
+  position: relative;
+  width: 368px;
+}
+
+.rectangle-1611-3 {
+  -webkit-backdrop-filter: blur(60.7px) brightness(100%);
+  backdrop-filter: blur(60.7px) brightness(100%);
+  background-color: var(--black-2);
+  border-radius: 16px;
+  height: 143px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 348px;
+}
+
+.ellipse-5-13 {
+  background-color: var(--purple-heart);
+  border-radius: 143.19px/79.03px;
+  filter: blur(72.5px);;
+  height: 158px;
+  left: 74px;
+  position: absolute;
+  top: 110px;
+  transform: rotate(-6.48deg);
+  width: 286px;
+}
+
+.ellipse-4-7 {
+  height: 143px;
+  left: 153px;
+  position: absolute;
+  top: 0;
+  width: 192px;
+}
+
+.vector-4-7 {
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 223px;
+}
+
+.vector-5-7 {
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 81px;
+  width: 183px;
+}
+
+.am-18,
+.am-19 {
+  height: 20px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.ejercicios-3 {
+  height: 13px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 78px;
+}
+
+.lun-mar-mie-dom-1 {
+  height: 15px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 112px;
+}
+
+.text-9 {
+  height: 51px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+}
+
+.x12h-28m-5 {
+  height: 15px;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 112px;
+}
+
+.alarmas-activas-1 {
+  left: 134px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 208px;
+}
+
+.hora-y-fecha-2 {
+  left: 553px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 208px;
+}
+
+.alarmas-compartidas-3 {
+  left: 133px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 616px;
+}
+
+.crear-7 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(200, 71, 244) 0%, rgb(110, 84, 247) 100%);
+  background-clip: text;
+  left: 414px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 212px;
+}
+
+.consultar-calendario-1 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(200, 71, 244) 0%, rgb(110, 84, 247) 100%);
+  background-clip: text;
+  left: 886px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 212px;
+}
+
+.crear-8 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(200, 71, 244) 0%, rgb(110, 84, 247) 100%);
+  background-clip: text;
+  left: 414px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 623px;
+}
+
+.overlap-group3-4 {
+  height: 292px;
+  left: 531px;
+  position: absolute;
+  top: 255px;
+  width: 535px;
+}
+
+.hora-y-fecha-3 {
+  align-items: flex-end;
+  display: flex;
+  gap: 1669px;
+  height: 292px;
+  left: 0;
+  min-width: 535px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group-19 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 535px;
+}
+
+.rectangle-3780-1 {
+  height: 292px;
+  width: 535px;
+}
+
+.rectangle-3772-3 {
+  height: 292px;
+  margin-bottom: -1058px;
+  width: 535px;
+}
+
+.overlap-group4-3 {
+  border-radius: 16px;
+  height: 143px;
+  left: 126px;
+  position: absolute;
+  top: 672px;
+  width: 345px;
+}
+
+.group-11 {
+  border-radius: 16px;
+  height: 143px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 345px;
+}
+
+.overlap-group-20 {
+  height: 284px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 368px;
+}
+
+.disear-flujo-ux-3 {
+  height: 13px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 74px;
+}
+
+.jueves-3 {
+  height: 15px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 111px;
+}
+
+.text-12 {
+  height: 51px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+}
+
+.frame-27-3 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  left: 173px;
+  position: absolute;
+  top: 79px;
+  width: fit-content;
+}
+
+.unsplashs-yh-uhse5u-t8-1 {
+  height: 56px;
+  min-width: 56px;
+  object-fit: cover;
+  position: relative;
+}
+
+.frame-26-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.name-12 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.alarmas-sugeridas-1 {
+  left: 524px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 616px;
+  width: 343px;
+}
+
+.overlap-group5-3 {
+  border-radius: 8px;
+  height: 122px;
+  left: 664px;
+  position: absolute;
+  top: 691px;
+  width: 122px;
+}
+
+.rectangle-4 {
+  height: 108px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 108px;
+}
+
+.rectangle-2-2 {
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 8px;
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 122px;
+}
+
+.overlap-group6-2 {
+  border-radius: 8px;
+  height: 122px;
+  left: 804px;
+  position: absolute;
+  top: 691px;
+  width: 122px;
+}
+
+.overlap-group7-4 {
+  border-radius: 8px;
+  height: 122px;
+  left: 944px;
+  position: absolute;
+  top: 696px;
+  width: 122px;
+}
+
+.rectangle-30-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-radius: 8px;
+  height: 108px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 108px;
+}
+
+.ejercicios-4 {
+  left: 524px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 668px;
+}
+
+.daily-sprint-1 {
+  left: 664px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 668px;
+}
+
+.ejercicios-5 {
+  left: 804px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 668px;
+}
+
+.desconectar-1 {
+  left: 944px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 673px;
+}
+
+.rectangle-3785-2 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: var(--shark-2);
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1188px;
+}
+
+.pantalla-de-alarma {
+  height: 812px;
+  left: 406px;
+  position: absolute;
+  top: 116px;
+  width: 375px;
+}
+

@@ -1,0 +1,27 @@
+.frame-86,
+.frame-86-1,
+.frame-86-2,
+.frame-86-3 {
+  align-items: center;
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.sonido,
+.repetir,
+.sonido-1,
+.repetir-1,
+.repetir-2,
+.sonido-2,
+.repetir-3,
+.sonido-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 256px;
+}
+

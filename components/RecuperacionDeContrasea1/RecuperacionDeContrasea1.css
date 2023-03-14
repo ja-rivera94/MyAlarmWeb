@@ -1,0 +1,64 @@
+.recuperacion-de-contrasena-1 {
+  align-items: flex-start;
+  background-color: var(--shark);
+  border: 1px none;
+  display: flex;
+  gap: 55px;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-col-26 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 61px;
+  margin-top: 236px;
+  min-height: 361px;
+  width: 585px;
+}
+
+.icon-4 {
+  height: 67px;
+  margin-right: 22.0px;
+  width: 67px;
+}
+
+.login-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 233px;
+  position: relative;
+  width: 585px;
+}
+
+.recuperacin-de-contrasea {
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.buttons-10 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(200, 71, 244) 0%, rgb(110, 84, 247) 100%);
+  border-radius: 8px;
+  box-shadow: 0px 4px 16px #9471cf3d;
+  cursor: pointer;
+  display: flex;
+  height: 53px;
+  justify-content: flex-end;
+  margin-top: 36px;
+  min-width: 578px;
+  padding: 16px 253px;
+}
+
+.siguiente {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  min-width: 71px;
+  text-align: center;
+}
+

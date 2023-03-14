@@ -1,0 +1,24 @@
+.image-sidebar,
+.image-sidebar-1,
+.image-sidebar-2,
+.image-sidebar-3,
+.image-sidebar-4,
+.image-sidebar-5 {
+  align-items: flex-start;
+  background-image: url(/static/img/img.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  width: 760px;
+}
+
+.pantalla-de-carga,
+.pantalla-de-carga-1,
+.pantalla-de-carga-2,
+.pantalla-de-carga-3,
+.pantalla-de-carga-4,
+.pantalla-de-carga-5 {
+  height: 1024px;
+  width: 760px;
+}
+

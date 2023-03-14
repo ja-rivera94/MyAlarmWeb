@@ -1,0 +1,28 @@
+.frame-318 {
+  align-items: center;
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  left: 10px;
+  position: absolute;
+  top: 635px;
+  width: fit-content;
+}
+
+.notificacin-por-correo {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 256px;
+}
+
+.frame-318.frame-318-1,
+.frame-318.frame-318-2,
+.frame-318.frame-318-3 {
+  left: unset;
+  margin-left: 10px;
+  margin-top: 20px;
+  position: relative;
+  top: unset;
+}
+

@@ -1,0 +1,27 @@
+.frame-67-6,
+.frame-67-7,
+.frame-67-8,
+.frame-67-10 {
+  align-items: center;
+  background-color: var(--mist-gray);
+  border-radius: 56px;
+  display: flex;
+  height: 40px;
+  left: 260px;
+  min-width: 72px;
+  padding: 0 2px;
+  position: absolute;
+  top: 16px;
+}
+
+.rectangle-44-3,
+.rectangle-44-5,
+.rectangle-44-9,
+.rectangle-44-12 {
+  background-color: var(--white);
+  border-radius: 56px;
+  box-shadow: 4px 4px 8px #00000040;
+  height: 36px;
+  width: 36px;
+}
+

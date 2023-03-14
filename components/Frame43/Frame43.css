@@ -1,0 +1,28 @@
+.frame-43 {
+  align-items: flex-end;
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  height: 122px;
+  min-width: 122px;
+}
+
+.rectangle-28 {
+  height: 140px;
+  margin-bottom: -15px;
+  margin-left: -11px;
+  object-fit: cover;
+  width: 140px;
+}
+
+.frame-43.frame-43-1 {
+  left: 524px;
+  position: absolute;
+  top: 691px;
+}
+
+.frame-43.frame-43-2 {
+  border-color: #b98ffd;
+}
+

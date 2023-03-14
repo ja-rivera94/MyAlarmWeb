@@ -1,0 +1,73 @@
+.frame-331 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 0;
+  position: absolute;
+  top: 278px;
+  width: fit-content;
+}
+
+.frame-319 {
+  align-items: center;
+  display: flex;
+  gap: 62px;
+  justify-content: center;
+  position: relative;
+  width: 343px;
+}
+
+.fi-sr-angle-small-right-4 {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.frame-327 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-32 {
+  align-items: center;
+  background-color: var(--tuatara);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 6px 12px;
+  position: relative;
+  width: 42px;
+}
+
+.place {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -5.50px;
+  margin-right: -5.50px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.dom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -8.50px;
+  margin-right: -8.50px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-331.frame-331-3 {
+  left: unset;
+  margin-top: 24px;
+  position: relative;
+  top: unset;
+}
+
