@@ -19,7 +19,6 @@ function NuevaContrasea(props) {
   return (
     <div className="container-center-horizontal">
       <div className="nueva-contrasena screen">
-        <ImageSidebar pantallaDeCarga={imageSidebarProps.pantallaDeCarga} />
         <div className="flex-col-27">
           <img className="icon-5" src={icon} alt="Icon" />
           <div className="overlap-group-33 inter-normal-white-16px">

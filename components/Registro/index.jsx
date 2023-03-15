@@ -20,7 +20,6 @@ function Registro(props) {
   return (
     <div className="container-center-horizontal">
       <div className="registro screen">
-        <ImageSidebar pantallaDeCarga={imageSidebarProps.pantallaDeCarga} />
         <div className="flex-col-29">
           <img className="icon-7" src={icon} alt="Icon" />
           <div className="overlap-group-38 inter-normal-white-16px">

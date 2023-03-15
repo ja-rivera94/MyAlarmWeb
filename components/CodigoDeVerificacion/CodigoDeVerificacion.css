@@ -1,12 +1,12 @@
 .codigo-de-verificacion-2 {
-  align-items: flex-start;
   background-color: var(--shark);
-  border: 1px none;
-  display: flex;
+  height: 755px;
+  width: 400px;
+  border: 1px;
+  align-items: flex-start;
   gap: 48px;
-  height: 1024px;
+  display: flex;
   position: relative;
-  width: 1440px;
 }
 
 .flex-col-28 {
@@ -14,8 +14,7 @@
   display: flex;
   flex-direction: column;
   margin-top: 236px;
-  min-height: 465px;
-  width: 580px;
+  width: 400px;
 }
 
 .icon-6 {
@@ -28,7 +27,8 @@
   height: 333px;
   margin-top: 16px;
   position: relative;
-  width: 580px;
+  width: 400px;
+  margin-left: 18%;
 }
 
 .login-5 {
@@ -40,7 +40,7 @@
   min-height: 333px;
   position: absolute;
   top: 0;
-  width: 580px;
+  width: 400px;
 }
 
 .cdigo-de-verificacin {
@@ -60,9 +60,8 @@
   display: flex;
   height: 53px;
   justify-content: flex-end;
-  margin-right: 2.0px;
-  min-width: 578px;
-  padding: 16px 253px;
+  max-width: 250px;
+  padding: 10px 56px;
 }
 
 .siguiente-2 {
@@ -83,7 +82,7 @@
 }
 
 .number-75 {
-  left: 129px;
+  left: 70px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
@@ -92,7 +91,7 @@
 }
 
 .number-76 {
-  left: 232px;
+  left: 130px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
@@ -101,7 +100,7 @@
 }
 
 .number-77 {
-  left: 329px;
+  left: 190px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
@@ -110,7 +109,7 @@
 }
 
 .number-78 {
-  left: 426px;
+  left: 250px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;

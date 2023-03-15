@@ -2,7 +2,7 @@
   align-items: flex-start;
   border: 1px none;
   display: flex;
-  width: 1440px;
+  width: 400px !important;
 }
 
 .login-1 {
@@ -10,10 +10,10 @@
   background-color: var(--shark);
   display: flex;
   gap: 10px;
-  height: 1024px;
+  height: 755px;
   overflow: hidden;
   position: relative;
-  width: 1440px;
+  width: 400px;
 }
 
 .flex-col-12 {
@@ -76,8 +76,8 @@
   height: 53px;
   margin-left: 3px;
   margin-top: 36px;
-  min-width: 578px;
-  padding: 16px 251px;
+  max-width: 300px;
+  padding: 13px 107px;
 }
 
 .confirmar {
@@ -107,8 +107,8 @@
   cursor: pointer;
   display: flex;
   height: 78px;
-  left: 11px;
-  min-width: 646px;
+  left: 11%;
+  max-width: 300px;
   position: absolute;
   top: 97px;
 }
@@ -117,7 +117,7 @@
   border-radius: 8px;
   height: 78px;
   position: relative;
-  width: 646px;
+  width: 239px;
 }
 
 .group-1-1 {
@@ -154,9 +154,7 @@
   height: 78px;
   justify-content: flex-end;
   left: 0;
-  min-width: 646px;
-  padding: 21px 197.0px;
-  position: absolute;
+  max-width: 300px;
   top: 0;
 }
 
@@ -183,8 +181,8 @@
   cursor: pointer;
   display: flex;
   height: 78px;
-  left: 14px;
-  min-width: 643px;
+  left: 11%;
+  max-width: 200px;
   position: absolute;
   top: 195px;
 }
@@ -231,8 +229,8 @@
   height: 78px;
   justify-content: flex-end;
   left: 0;
-  min-width: 643px;
-  padding: 21px 197.0px;
+  max-width: 300px;
+  padding: 1px 10.0px;
   position: absolute;
   top: 0;
 }
@@ -315,13 +313,13 @@
 }
 
 .no-tienes-una-cuenta-registrate {
-  align-self: center;
   letter-spacing: 0;
-  line-height: 21.7px;
-  margin-right: 2.0px;
-  margin-top: 52px;
   white-space: nowrap;
   width: 271px;
+  align-self: center;
+  margin-top: 18px;
+  margin-right: 218px;
+  line-height: 21.7px;
 }
 
 #overlay-login {

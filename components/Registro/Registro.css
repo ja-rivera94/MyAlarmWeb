@@ -4,9 +4,9 @@
   border: 1px none;
   display: flex;
   gap: 55px;
-  height: 1024px;
+  height: 755px;
   position: relative;
-  width: 1440px;
+  width: 400px;
 }
 
 .flex-col-29 {
@@ -16,7 +16,7 @@
   gap: 48px;
   margin-top: 236px;
   min-height: 562px;
-  width: 589px;
+  width: 400px;
 }
 
 .icon-7 {
@@ -28,7 +28,7 @@
 .overlap-group-38 {
   height: 447px;
   position: relative;
-  width: 589px;
+  width: 400px;
 }
 
 .login-6 {
@@ -39,7 +39,8 @@
   min-height: 447px;
   position: absolute;
   top: 0;
-  width: 589px;
+  width: 400px;
+  margin-left: 20px;
 }
 
 .title-3 {
@@ -84,10 +85,10 @@
   display: flex;
   height: 53px;
   justify-content: flex-end;
-  margin-right: 1.0px;
+  margin-right: 54px;
   margin-top: 21px;
-  min-width: 578px;
-  padding: 16px 253px;
+  max-width: 350px;
+  padding: 10px 100px;
 }
 
 .siguiente-3 {

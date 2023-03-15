@@ -1,20 +1,15 @@
 
 ## Instructions
 
-### Run locally
-```
-cd package_code
-npm install
-npm start
-```
-Open [http://localhost:1234](http://localhost:1234).
-
 ### Build for deploying 
 
-After building, you can upload `dist` folder to a hosting service like Netlify
+Is a requiretment to have android studio installed before to continue
 
 ```
-cd package_code
-npm install
-npm run build
+ npm run build
+npm install -g @ionic/cli
+npm install @capacitor/core --save
+ionic capacitor add android
+npx cap open android
+
 ```

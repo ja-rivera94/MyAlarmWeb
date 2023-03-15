@@ -29,7 +29,6 @@ function Login(props) {
     <div className="container-center-horizontal">
       <div className="login screen">
         <div className="login-1">
-          <ImageSidebar pantallaDeCarga={imageSidebarProps.pantallaDeCarga} />
           <div className="flex-col-12">
             <img className="icon" src={icon} alt="Icon" />
             <div className="overlap-group2-2">
@@ -54,10 +53,6 @@ function Login(props) {
               <Link to="/registro">
                 <div className="login-with-google">
                   <div className="overlap-group-8">
-                    <div className="group-1-1">
-                      <img className="search-1" src="/img/search-1.svg" alt="search 1" />
-                      <div className="ingresa-con-google poppins-normal-thunder-16px">{ingresaConGoogle1}</div>
-                    </div>
                     <div className="login-with-google-1">
                       <img className="search-1-1" src="/img/search-1-1.svg" alt="search 1" />
                       <div className="ingresa-con-google-1 poppins-normal-white-16px">{ingresaConGoogle2}</div>

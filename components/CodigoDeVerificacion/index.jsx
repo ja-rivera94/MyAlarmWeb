@@ -30,7 +30,6 @@ function CodigoDeVerificacion(props) {
   return (
     <div className="container-center-horizontal">
       <div className="codigo-de-verificacion-2 screen">
-        <ImageSidebar pantallaDeCarga={imageSidebarProps.pantallaDeCarga} />
         <div className="flex-col-28">
           <img className="icon-6" src={icon} alt="Icon" />
           <div className="overlap-group-37">

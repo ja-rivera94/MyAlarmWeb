@@ -4,9 +4,9 @@
   border: 1px none;
   display: flex;
   gap: 55px;
-  height: 1024px;
+  height: 755px;
   position: relative;
-  width: 1440px;
+  width: 400px;
 }
 
 .flex-col-27 {
@@ -16,7 +16,7 @@
   gap: 61px;
   margin-top: 236px;
   min-height: 462px;
-  width: 587px;
+  width: 400px;
 }
 
 .icon-5 {
@@ -28,7 +28,7 @@
 .overlap-group-33 {
   height: 334px;
   position: relative;
-  width: 587px;
+  width: 400px;
 }
 
 .login-4 {
@@ -39,15 +39,15 @@
   min-height: 334px;
   position: absolute;
   top: 0;
-  width: 587px;
+  width: 400px;
 }
 
 .nueva-contrasea {
   align-self: center;
   letter-spacing: 0;
   line-height: 20px;
-  margin-right: 23.0px;
-  min-width: 340px;
+  margin-right: 0.0px;
+  max-width: 340px;
   white-space: nowrap;
 }
 
@@ -77,8 +77,9 @@
   height: 53px;
   justify-content: flex-end;
   margin-top: 26px;
-  min-width: 578px;
-  padding: 16px 253px;
+  max-width: 255px;
+  padding: 10px 100px;
+  margin-left: 100px;
 }
 
 .siguiente-1 {

@@ -66,8 +66,6 @@ function App() {
         </Route>
         <Route path="/registro" element = {<Registro {...registroData} />}>
         </Route>
-        <Route path="/codigo-de-verificacion" element = {<CodigoDeVerificacion2 {...codigoDeVerificacion2Data} />}>
-        </Route>
         <Route path="/frame-42" element = {<Frame42 />}>
         </Route>
       </Routes>
